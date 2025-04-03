@@ -1,0 +1,4 @@
+* text=auto eol=lf
+*.syso binary -diff
+*.png binary -diff
+*.pdn binary -diff
